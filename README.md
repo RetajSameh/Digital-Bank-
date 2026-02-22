@@ -9,7 +9,7 @@ A responsive banking website built using HTML & CSS.
 - Image assets optimization
 
 ## 🚀 Live Demo
-digital-bank-murex.vercel.app
+https://digital-bank-murex.vercel.app
 
 ## 🛠️ Technologies Used
 - HTML5
