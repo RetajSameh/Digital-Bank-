@@ -587,8 +587,8 @@ footer p{
 .headimgs{
     position: relative;
     width: 100%;
-    min-height: 55vh;   /* مهم عشان يبقى فيه مساحة للصور */
-       /* عشان الـ shape يبان جزء منه بس */
+    min-height: 55vh;   
+       
 }
 
 
@@ -596,7 +596,7 @@ footer p{
     position: absolute;
     width: 200%;
     max-width: none;
-    top: -80%;             /* بلاش سالب */
+    top: -80%;            
     left: 50%;
     transform: translateX(-50%);
     z-index: 1;
@@ -608,7 +608,7 @@ footer p{
     width: 90%;
     max-width: none;
     left: 50%;
-    top: -10%;                 /* مكانها بالطول */
+    top: -10%;                
     transform: translateX(-50%);
     z-index: 2;
 }
@@ -937,4 +937,5 @@ footer p{
     }
 
     
+
 }
