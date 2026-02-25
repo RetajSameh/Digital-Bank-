@@ -587,8 +587,8 @@ footer p{
 .headimgs{
     position: relative;
     width: 100%;
-    min-height: 55vh;   
-       
+    min-height: 55vh;  
+
 }
 
 
@@ -596,7 +596,7 @@ footer p{
     position: absolute;
     width: 200%;
     max-width: none;
-    top: -80%;            
+    top: -80%;             
     left: 50%;
     transform: translateX(-50%);
     z-index: 1;
@@ -937,5 +937,4 @@ footer p{
     }
 
     
-
 }
